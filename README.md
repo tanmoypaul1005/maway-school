@@ -1,2 +1,3 @@
 # Maway-Admin-Panel
-"# maway-school" 
+email : s1@maway.dk
+password : 1234
